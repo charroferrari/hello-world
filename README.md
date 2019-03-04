@@ -1,2 +1,3 @@
 # hello-world
-Pruebas sobre
+Pruebas sobre como usar Github
+Mi primera prueba sobre el uso de esta herramienta
